@@ -8,8 +8,8 @@
 # Если хочешь изменить какуюто функцию уже в сущесвтующей в ветке, то создай в ней еще 1 ветку. Чтобы было проще тестировать
 
 ## Примерные эдпоинты
-POST /api/users/register — регистрация пользователя.
-POST /api/users/login — аутентификация.
-POST /api/projects — создание проекта.
-POST /api/tasks — создание задачи.
-GET /api/tasks?status=in_progress&priority=high — фильтрация задач.
+#POST /api/users/register — регистрация пользователя.
+#POST /api/users/login — аутентификация.
+#POST /api/projects — создание проекта.
+#POST /api/tasks — создание задачи.
+#GET /api/tasks?status=in_progress&priority=high — фильтрация задач.
